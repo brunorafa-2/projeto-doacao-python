@@ -1,6 +1,6 @@
 # projeto-doacao-python
 Programa em Python que calcula uma doação consciente baseada no salário.
-# Gerenciador de Doação 🤍
+# Gerenciador de Doação 
 
 Projeto simples em Python que ajuda uma pessoa a calcular quanto pode doar do seu salário de forma consciente, baseado em uma porcentagem escolhida.
 
